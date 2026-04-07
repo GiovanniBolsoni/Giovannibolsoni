@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Giovanni Bolsooni
+# 👩🏻‍💻 Giovanni Bolsoni
 
 **`Desenvolvedor full stack Developer`**
 
