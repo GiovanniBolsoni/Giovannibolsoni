@@ -53,7 +53,7 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
     alt="Github" 
     title="Github"
     width="30px"
-    color: white
+    color='white'
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
