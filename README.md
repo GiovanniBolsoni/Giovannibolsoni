@@ -77,8 +77,6 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 />
 
 <br/>
-<br/>
-
 
 ## 🌐 Where to find me
 
