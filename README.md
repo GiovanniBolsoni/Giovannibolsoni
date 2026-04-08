@@ -1,5 +1,3 @@
-<a href="https://github.com/user-attachments/assets/64a63355-23b4-43dd-a5da-92477b883f22"></a>
-
 # 👩🏻‍💻 Giovanni Bolsoni
 
 **`Desenvolvedor full stack Developer`**
