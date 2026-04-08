@@ -1,8 +1,6 @@
 <img src="./Header.svg" width="100%" alt="header"/>
 
-<center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=23&duration=2500&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B+I%C2%B4m+Giovanni+Bolsoni;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
-</center>
 
  **`Desenvolvedor Full Stack Developer`**
 
