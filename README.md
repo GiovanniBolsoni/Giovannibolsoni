@@ -1,6 +1,9 @@
-# 👩🏻‍💻 Giovanni Bolsoni
+<img src="./Header.svg" width="100%" alt="header"/>
 
-**`Desenvolvedor full stack Developer`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=23&duration=2500&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B+I%C2%B4m+Giovanni+Bolsoni;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+ **`Desenvolvedor Full Stack Developer`**
 
 Estudante de Análise e Desenvolvimento de Sistemas, em etapa final da graduação, com vivência prática em análise de processos, identificação e solução de problemas em ambientes corporativos.
 
@@ -8,69 +11,69 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 
 ## 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
+<img
+    align="left"
     alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-<img 
-    align="left" 
-    alt="CSS" 
+<img
+    align="left"
+    alt="CSS"
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
+<img
+    align="left"
+    alt="JavaScript"
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<img 
-    align="left" 
+<img
+    align="left"
     alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
-<img 
-    align="left" 
-    alt="React" 
+<img
+    align="left"
+    alt="React"
     title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
-<img 
-    align="left" 
-    alt="Git" 
+<img
+    align="left"
+    alt="Git"
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<img 
-    align="left" 
-    alt="Python" 
+<img
+    align="left"
+    alt="Python"
     title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-<img 
-    align="left" 
-    alt="MySQL" 
+<img
+    align="left"
+    alt="MySQL"
     title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <br/>
@@ -85,3 +88,7 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
   <a href="https://www.linkedin.com/in/giovanni-bolsoni/">
     <img src="https://img.shields.io/badge/Linkedin-Giovanni Bolsoni-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
+
+<br/>
+
+<img src="./footer.svg" width="100%" alt="footer"/>
