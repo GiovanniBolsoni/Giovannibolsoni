@@ -76,16 +76,16 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 />
 <img
     align="left"
-    alt="MySQL"
-    title="MySQL"
+    alt="Notion"
+    title="Notion"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
 />
 <img
     align="left"
-    alt="MySQL"
-    title="MySQL"
+    alt="Figma"
+    title="Figma"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
