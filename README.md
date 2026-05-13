@@ -6,8 +6,6 @@
     </a>
 </p>
 
- **`Desenvolvedor Full Stack Developer`**
-
 Estudante de Análise e Desenvolvimento de Sistemas, em etapa final da graduação, com vivência prática em análise de processos, identificação e solução de problemas em ambientes corporativos.
 
 Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo projetos práticos, modelagem de dados e desenvolvimento web. Demonstra interesse em análise de processos, diagnóstico de problemas operacionais e utilização de dados para suporte à tomada de decisões.
