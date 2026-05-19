@@ -62,14 +62,6 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 />
 <img
     align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-    align="left"
     alt="MySQL"
     title="MySQL"
     width="30px"
