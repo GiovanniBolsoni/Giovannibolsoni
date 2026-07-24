@@ -78,6 +78,13 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 />
 
 <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seunome/seunome/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/seunome/seunome/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/seunome/seunome/output/github-snake.svg" />
+</picture>
+
+[github-snake-gif](https://raw.githubusercontent.com/seunome/seunome/output/ocean.gif )
 <br/>
 
 ## 🌐 Where to find me
