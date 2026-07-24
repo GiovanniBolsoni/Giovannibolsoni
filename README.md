@@ -80,12 +80,12 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 <br/>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giovannibolsoni/Giovannibolsoni/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Giovannibolsoni/Giovannibolsoni/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Giovannibolsoni/Giovannibolsoni/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniBolsoni/Giovannibolsoni/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/GiovanniBolsoni/Giovannibolsoni/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GiovanniBolsoni/Giovannibolsoni/output/github-snake.svg" />
 </picture>
 
-[github-snake-gif](https://raw.githubusercontent.com/seunome/seunome/output/ocean.gif )
+[github-snake-gif](https://raw.githubusercontent.com/GiovanniBolsoni/Giovannibolsoni/output/ocean.gif )
 <br/>
 <br/>
 
