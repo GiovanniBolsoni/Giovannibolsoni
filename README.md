@@ -40,5 +40,6 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
   </a>
 
 <br/>
+<br/>
 
 <img src="./footer.svg" width="100%" alt="footer"/>
