@@ -16,7 +16,7 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,notion,figma,bootstrap,aws,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,notion,bootstrap,aws,html,css,js,react" />
   </a>
 </p>
 
