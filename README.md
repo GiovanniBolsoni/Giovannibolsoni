@@ -21,7 +21,6 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
 </p>
 
 <br/>
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniBolsoni/Giovannibolsoni/output/github-snake-dark.svg" />
