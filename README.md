@@ -8,9 +8,17 @@
 
 ## 🧑‍💻 About Me
 
-Estudante de Análise e Desenvolvimento de Sistemas, em etapa final da graduação, com vivência prática em análise de processos, identificação e solução de problemas em ambientes corporativos.
+Comecei minha carreira em **suporte técnico e atendimento**, onde passei mais de 2 anos resolvendo
+incidentes sob SLA, documentando soluções via metodologia **KCS** e sendo o elo entre times técnicos
+e clientes. Foi ali que desenvolvi raciocínio analítico e visão de negócio.
 
-Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo projetos práticos, modelagem de dados e desenvolvimento web. Demonstra interesse em análise de processos, diagnóstico de problemas operacionais e utilização de dados para suporte à tomada de decisões.
+Hoje aplico essa mesma lógica de resolução de problemas no desenvolvimento **Front-End**, construindo
+interfaces com **React, JavaScript, HTML5 e CSS3**, unindo base técnica sólida a uma postura
+organizada e orientada a resultado.
+
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
+- ☁️ Cursando AWS Cloud Practitioner (SENAI)
+- 🤝 Aberto a colaborar em projetos e trocar conhecimento
 
 ## 🤖 Languages ​​and Technologies
 
@@ -38,6 +46,9 @@ Atualmente aplica esse perfil analítico na área de tecnologia, desenvolvendo p
   <a href="https://www.linkedin.com/in/giovanni-bolsoni/">
     <img src="https://img.shields.io/badge/Linkedin-Giovanni Bolsoni-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
+  <a href="mailto:giovannibolsoni502@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/>
 <br/>
