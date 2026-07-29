@@ -24,7 +24,7 @@ organizada e orientada a resultado.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,notion,bootstrap,aws,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html5,css3,javascript,react,bootstrap,vite,aws,vercel,supabase,git,github,notion,windows,vscode" />
   </a>
 </p>
 
