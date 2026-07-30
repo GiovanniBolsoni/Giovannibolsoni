@@ -18,6 +18,7 @@ organizada e orientada a resultado.
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
 - ☁️ Cursando AWS Cloud Practitioner (SENAI)
+- ☁️ Cursando Python com Framework (SENAI)
 - 🤝 Aberto a colaborar em projetos e trocar conhecimento
 
 ## 🤖 Languages ​​and Technologies
