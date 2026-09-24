@@ -13,7 +13,7 @@ incidentes sob SLA, documentando soluções via metodologia **KCS** e sendo o el
 e clientes. Foi ali que desenvolvi raciocínio analítico e visão de negócio.
 
 Hoje aplico essa mesma lógica de resolução de problemas para me tornar um futuro desenvolvedor **Full-Stack**, construindo
-interfaces com **React, JavaScript, HTML5 e CSS3, Python**, unindo base técnica sólida a uma postura
+interfaces com **React, JavaScript, HTML5, CSS3 e Python**, unindo base técnica sólida a uma postura
 organizada e orientada a resultado.
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu
