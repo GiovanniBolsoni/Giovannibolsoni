@@ -17,14 +17,14 @@ interfaces com **React, JavaScript, HTML5 e CSS3**, unindo base técnica sólida
 organizada e orientada a resultado.
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
-- 🐍 Cursando Python com Framework (SENAI)
+- 📚 Desenvolvimento de Aplicações com IA Generativa utilizando Google Antigravity
 - 🤝 Aberto a colaborar em projetos e trocar conhecimento
 
 ## 🤖 Languages ​​and Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vite,aws,vercel,supabase,git,github,notion,windows,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,bootstrap,vite,aws,vercel,supabase,git,github,notion,windows,vscode" />
   </a>
 </p>
 
