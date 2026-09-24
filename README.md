@@ -12,11 +12,11 @@ Comecei minha carreira em **suporte técnico e atendimento**, onde passei mais d
 incidentes sob SLA, documentando soluções via metodologia **KCS** e sendo o elo entre times técnicos
 e clientes. Foi ali que desenvolvi raciocínio analítico e visão de negócio.
 
-Hoje aplico essa mesma lógica de resolução de problemas no desenvolvimento **Front-End**, construindo
-interfaces com **React, JavaScript, HTML5 e CSS3**, unindo base técnica sólida a uma postura
+Hoje aplico essa mesma lógica de resolução de problemas para me tornar um futuro desenvolvedor **Full-Stack**, construindo
+interfaces com **React, JavaScript, HTML5 e CSS3, Python**, unindo base técnica sólida a uma postura
 organizada e orientada a resultado.
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu
 - 📚 Desenvolvimento de Aplicações com IA Generativa utilizando Google Antigravity
 - 🤝 Aberto a colaborar em projetos e trocar conhecimento
 
